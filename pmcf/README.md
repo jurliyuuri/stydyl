@@ -231,6 +231,8 @@ nonborderedはこのようである。
 
 [対訳](https://docs.google.com/spreadsheets/d/1A6B08DpPzdD-USgXPahUbUq1omaJzYB5UknWE_rlE0Q/edit#gid=0) を一気に立てた。それなりに立った。
 
+![対訳](pmcf_islands_2020_04_20.png)
+
 ということでリナエスト語地図はこんな感じ。
 
 ![リナエスト語地図](text4186_linaest.png)
