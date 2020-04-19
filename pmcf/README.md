@@ -219,3 +219,6 @@ nonborderedはこのようである。
 
 ![シーレーオーつき地図](text4186_2_with_xirleror.png)
 
+ということは、極度に抽象化した地図を描くことができ、
+
+![抽象化](abstraction.png)
