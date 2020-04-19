@@ -13,5 +13,18 @@ falira.lyjotafis『なんだろうなあ』
 * マナナ島は「アイル共和国に属する島でPMCFの経済の中心」
 
 jekto.vatimeliju『リナエスト・オルス共和国ってどこにあるんですか（素朴な疑問）』  
+skarsna haltxeafis nirxavija『[ここ](https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/rinaesuto-orusu-gong-he-guo)には"リナエスト本島"とあって、その理解をしていた』
 falira.lyjotafis『内戦期に紙幣から消える島です』  
 jekto.vatimeliju『そうよな、えーとそれはつまり』
+
+![紙幣](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/1sur.png)
+
+jekto.vatimeliju『んでアイルがこれ』
+
+（ここに画像が入る）
+
+falira.lyjotafis『めちゃくちゃややこしいんですが旧リナエスト島とリナエスト本島は違う概念です』
+
+skarsna haltxeafis nirxavija『うわあ…完全に勘違いしてた。こう考えるとLO本当に小さいなあ…』
+
+
