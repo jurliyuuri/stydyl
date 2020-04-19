@@ -66,5 +66,5 @@ jekto.vatimeliju『枠線全部塗りつぶした画像も貰えます？誤差�
 34226: (255,255,0,255) #FFFF00FF yellow
 ```
 
-falira.lyjotafis『雑に見積もって5:2:1くらいか』
+falira.lyjotafis『雑に見積もって5:2:1くらいか』  
 jekto.vatimeliju『9:4:2が誤差の範囲内に収まるっぽい。16906ピクセルを1とすると9:4:2が誤差の範囲内』
