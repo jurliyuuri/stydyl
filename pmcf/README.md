@@ -229,4 +229,10 @@ nonborderedはこのようである。
 
 ## 名前の対訳
 
-![対訳](https://docs.google.com/spreadsheets/d/1A6B08DpPzdD-USgXPahUbUq1omaJzYB5UknWE_rlE0Q/edit#gid=0) を一気に立てた。それなりに立った。
+[対訳](https://docs.google.com/spreadsheets/d/1A6B08DpPzdD-USgXPahUbUq1omaJzYB5UknWE_rlE0Q/edit#gid=0) を一気に立てた。それなりに立った。
+
+ということでリナエスト語地図はこんな感じ。
+
+![リナエスト語地図](text4186_linaest.png)
+
+skarsna haltxeafis nirxavija『おおおーありがとうございます！すごくいい感じ！！！そして読めん！！！（自爆）』
