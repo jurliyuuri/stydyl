@@ -124,6 +124,31 @@ nonborderedはこのようである。
 ![ヴェフィス枠あり](bordered_vefisait.png)
 ![ヴェフィス枠なし](nonbordered_vefisait.png)
 
+えーと青がkawakija / [kaka](https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/cv)、tealがpokjut、cyanが多分[タムシエルミワ](https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/cv#TOC--20)で緑が「「「小島」」」。
+
+borderedはこのようである。
+
+```
+     50768: (0,0,255,255) #0000FFFF blue
+     12303: (0,128,128,255) #008080FF teal
+       640: (0,255,0,255) #00FF00FF lime
+      1982: (0,255,255,255) #00FFFFFF cyan
+```
+
+50768+12303+640+1982 は 65693 であるので問題ない。
+
+nonborderedはこのようである。
+
+```
+        18: (0,0,128,255) #000080FF navy
+     52857: (0,0,255,255) #0000FFFF blue
+     13272: (0,128,128,255) #008080FF teal
+       895: (0,255,0,255) #00FF00FF lime
+      2462: (0,255,255,255) #00FFFFFF cyan
+```
+
+18+52857+13272+895+2462 は 69504 であるので問題ない。
+
 ### リナエスト・オルス連合共和国
 
 ![リナエスト・オルス枠あり](bordered_linaest.png)
