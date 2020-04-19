@@ -68,3 +68,26 @@ jekto.vatimeliju『枠線全部塗りつぶした画像も貰えます？誤差�
 
 falira.lyjotafis『雑に見積もって5:2:1くらいか』  
 jekto.vatimeliju『9:4:2が誤差の範囲内に収まるっぽい。16906ピクセルを1とすると9:4:2が誤差の範囲内』
+
+## 島の面積測るよ
+
+16906ピクセルを「半LO」として島を測ると捗りそう。
+
+jekto.vatimeliju『とりあえずシーレーオー（xi -r- LO）単位で各島の面積を求めとくか』
+
+共和国ずつで処理するか。ということで分割する。
+
+### アイル共和国
+
+![アイル枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_air.png)
+![アイル枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_air.png)
+
+### ヴェフィス共和国
+
+![ヴェフィス枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_vefisait.png)
+![ヴェフィス枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_vefisait.png)
+
+### リナエスト・オルス連合共和国
+
+![リナエスト・オルス枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_linaest.png)
+![リナエスト・オルス枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_linaest.png)
