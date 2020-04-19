@@ -236,3 +236,7 @@ nonborderedはこのようである。
 ![リナエスト語地図](text4186_linaest.png)
 
 skarsna haltxeafis nirxavija『おおおーありがとうございます！すごくいい感じ！！！そして読めん！！！（自爆）』
+
+パイグ語準拠燐字地図を立てようと思ったら「民」の字形がまだ定まっていなかったので、とりあえずアイル共和国だけ。
+
+![アイル共和国地図with燐字](air_with_lin_marn.png)
