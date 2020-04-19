@@ -79,15 +79,15 @@ jekto.vatimeliju『とりあえずシーレーオー（xi -r- LO）単位で各�
 
 ### アイル共和国
 
-![アイル枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_air.png)
-![アイル枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_air.png)
+![アイル枠あり](bordered_air.png)
+![アイル枠なし](nonbordered_air.png)
 
 ### ヴェフィス共和国
 
-![ヴェフィス枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_vefisait.png)
-![ヴェフィス枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_vefisait.png)
+![ヴェフィス枠あり](bordered_vefisait.png)
+![ヴェフィス枠なし](nonbordered_vefisait.png)
 
 ### リナエスト・オルス連合共和国
 
-![リナエスト・オルス枠あり](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/bordered_linaest.png)
-![リナエスト・オルス枠なし](https://github.com/jurliyuuri/stydyl/blob/master/pmcf/nonbordered_linaest.png)
+![リナエスト・オルス枠あり](bordered_linaest.png)
+![リナエスト・オルス枠なし](nonbordered_linaest.png)
