@@ -242,3 +242,7 @@ skarsna haltxeafis nirxavija『おおおーありがとうございます！す�
 パイグ語準拠燐字地図を立てようと思ったら「民」の字形がまだ定まっていなかったので、とりあえずアイル共和国だけ。
 
 ![アイル共和国地図with燐字](air_with_lin_marn.png)
+
+リナエスト・オルス共和国除名期のPMCF地図 with 燐字俗用書体 というのも書いてみた。
+
+![リナエスト・オルス共和国除名期のPMCF地図with燐字俗用書体](air_vefisait_with_lin_marn.png)
